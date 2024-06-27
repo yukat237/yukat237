@@ -119,7 +119,7 @@ author:
   location         : "Kyoto, Japan"
   email            :
   links:
-    - label: "Email"
+    - label: "ytatsumi@stanford.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ytatsumi@stanford.edu"
     - label: "Website"
