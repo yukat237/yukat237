@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Research"
-    url: https://mmistakes.github.io/Research/
+    url: /Research/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
